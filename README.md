@@ -1,4 +1,9 @@
-I am a software engineer.
+<h1>Hello world, I am Prajwal Joshi. </h1>
+<h3>
+ 🚀 Frontend Engineer at Investiaa. <br/>
+ Passionate about creating seamless user experiences and pushing the boundaries of web technology. <br/> 
+ Always on the lookout for the next big challenge. Let's code, let's innovate!
+</h3>
 
 <h3 align="left">Languages and Tools</h3>
 <p>
@@ -14,6 +19,16 @@ I am a software engineer.
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />     
 </p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojaspj&" alt="ojaspj" /></p>
+
+<!-- Github Stats 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojaspj&show_icons=true&locale=en" alt="ojaspj" /></p>
+-->
+
+
+
 <h3 align="left">Let's Connect</h3>
 <p>
  <a href="https://www.linkedin.com/in/prajwal-joshi-3b3734156">

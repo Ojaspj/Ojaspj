@@ -1,6 +1,6 @@
 <h1>Hello world, I am Prajwal Joshi. </h1>
 <h3>
- Frontend Engineer at Investiaa. 🚀 <br/>
+ Software Engineer at Investiaa. 🚀 <br/>
  Passionate about creating seamless user experiences and pushing the boundaries of web technology. <br/> 
  Always on the lookout for the next big challenge. Let's code, let's innovate!
 </h3>

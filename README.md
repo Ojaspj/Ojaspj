@@ -20,10 +20,10 @@
 <img height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />     
 </p>
 
+<!-- Github Stats 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojaspj&" alt="ojaspj" /></p>
 
-<!-- Github Stats 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojaspj&show_icons=true&locale=en" alt="ojaspj" /></p>
 -->
 

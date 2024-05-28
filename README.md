@@ -1,4 +1,6 @@
 <h1>Hello world, I am Prajwal Joshi. </h1>
+
+<img src="https://res.cloudinary.com/dtsvzdlhc/image/upload/v1716878359/profile-cover-image_bqzbmu.png" />
 <h3>
  Software Engineer at Investiaa. 🚀 <br/>
  Passionate about creating seamless user experiences and pushing the boundaries of web technology. <br/> 

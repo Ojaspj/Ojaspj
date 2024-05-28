@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/dtsvzdlhc/image/upload/v1716878359/profile-cover-image_bqzbmu.png" />
 <h3>
- Software Engineer at Investiaa. 🚀 <br/>
+ Frontend Engineer at Investiaa. 🚀 <br/>
  Passionate about creating seamless user experiences and pushing the boundaries of web technology. <br/> 
  Always on the lookout for the next big challenge. Let's code, let's innovate!
 </h3>
